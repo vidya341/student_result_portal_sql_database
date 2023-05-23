@@ -13,5 +13,5 @@ The login page will consist of two components: username and password.<br/>
 The password field will automatically hide the entered text for security.<br/>
 The admin can add new student details,add student results,view all students details and results
 
-##student page
+## Student page
 The login page asks for Roll NO to enter and then student can view his/her results through portal
